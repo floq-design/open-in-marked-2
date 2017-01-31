@@ -1,0 +1,12 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Open in Marked 2",
+                "command": "marked"
+            }
+        ]
+    }
+]
